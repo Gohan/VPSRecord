@@ -42,8 +42,3 @@ VPSRecord
   - routes
   - views
 - bootstrap.py
-
-## 开发环境
-
-  - 最早使用vim的原始开发在服务端
-  - 接下来准备尝试webstorm的远程自动upload方式, 效率应该高一点儿
