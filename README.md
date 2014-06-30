@@ -1,6 +1,10 @@
 VPSRecord
 =========
 
+fill free to open isssues
+
+---
+
 ## power by
 
 - web framework: [express] (node.js)
